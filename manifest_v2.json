@@ -1,0 +1,88 @@
+{
+  "item": {
+    "id": "com.hazenotea.ashenoath.watch",
+    "restype": "quick_app",
+    "name": "灰烬誓约",
+    "description": "售价3.9元。把世界放进抬腕就能看见的方寸屏幕里，探索、收集、锻造和战斗一样都没少。\n\n西式中世纪奇幻风格RPG，游戏内含有135件物品、15种技能、25种怪物、74种材料、72条锻造配方、35张地图、23条主线任务，且游戏内置图鉴/指南。\n\n《灰烬誓约》为付费游戏，在爱发电购买后，使用订单号与手环设备码获取解锁码，再在手环端输入解锁码即可解锁完整内容，一次即可买断，后续无需购买。",
+    "preview": [
+      "media/封面.png",
+      "media/宣传图_1.png",
+      "media/宣传图_2.png",
+      "media/宣传图_3.png",
+      "media/宣传图_4.png"
+    ],
+    "icon": "media/高清LOGO.png",
+    "cover": "media/封面.png",
+    "author": [
+      {
+        "name": "HazeNoTea",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "激活/介绍网站",
+      "url": "https://hazenotea.github.io/HNT-PW/post/ashen-oath.html",
+      "icon": "globe"
+    },
+    {
+      "title": "爱发电赞助",
+      "url": "https://ifdian.net/a/HazeNoTea",
+      "icon": "battery-charging"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.ashenoath.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.ashenoath.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.ashenoath.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.ashenoath.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.ashenoath.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.ashenoath.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmb9p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.ashenoath.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4xring": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.ashenoath.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws4": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.ashenoath.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    },
+    "xmws441": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.hazenotea.ashenoath.watch.release.1.0.0.rpk",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
